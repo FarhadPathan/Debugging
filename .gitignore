@@ -6,7 +6,8 @@
 *.log
 .idea/
 .out/
-
+README.md
+.ignore
 # BlueJ files
 *.ctxt
 
